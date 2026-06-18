@@ -1,6 +1,6 @@
-# Teste Técnico Front-End — Vue 3 + Quasar + TypeScript
+# 🚀 Front-End Challenge — Vue 3 + Quasar + TypeScript
 
-## Objetivo
+## 📌 Objetivo
 
 Este teste tem como objetivo avaliar suas habilidades como Desenvolvedor(a) Front-End, considerando:
 
